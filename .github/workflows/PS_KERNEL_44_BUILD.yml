@@ -29,7 +29,7 @@ on:
         type: string
       BUILD_NEWCAM:
         description: '📷 Use Newcam Build'
-        required: true
+        required: false
         default: false
         type: boolean
       INJECT_KSU:
